@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="../../include/new_handler_support.h" open="1" top="0" tabpos="4">
+		<Cursor position="2465" topLine="51" />
+	</File>
+	<File name="../../include/string_eager.h" open="1" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="../../include/string_sso.h" open="1" top="1" tabpos="7">
+		<Cursor position="1748" topLine="59" />
+	</File>
+	<File name="../../include/type_def.h" open="1" top="0" tabpos="5">
+		<Cursor position="1313" topLine="44" />
+	</File>
+	<File name="../../source/main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="996" topLine="33" />
+	</File>
+	<File name="../../source/string_eager.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="604" topLine="0" />
+	</File>
+	<File name="../../source/test.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="5208" topLine="33" />
+	</File>
+</CodeBlocks_layout_file>
